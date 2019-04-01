@@ -1,3 +1,4 @@
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 # express-study
 
 - 严格路由和不严格路由有什么区别
